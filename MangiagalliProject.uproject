@@ -35,11 +35,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
-			"Name": "StaticMeshEditorModeling",
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	],
